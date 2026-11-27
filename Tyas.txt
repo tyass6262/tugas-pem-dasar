@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Tyas ini
+=======
+Tyas ini
+>>>>>>> cb3451534983f36b6b0343df261cb5d228bfee87
 https://github.com/tyass6262/lat_pemrograman_dasar.git
